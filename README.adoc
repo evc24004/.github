@@ -26,10 +26,4 @@ While the exact mission statement isn't provided, based on the data, we can infe
 
 == Connect with Economy Plus:
 
-For further details, connect with Economy Plus on link:#[Discord] or visit their link:#[Pricing] and link:#[Login] pages.
-
-NOTE: The links provided are placeholders and should be replaced with actual links.
-
----
-
-This README provides a high-level overview of Economy Plus based on the provided data. For detailed insights into their products or services, please refer to specific product documentation or reach out to their team.
+For further details, connect with Economy Plus on link:https://discord.gg/anticheat[Discord].
