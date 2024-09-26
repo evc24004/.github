@@ -23,7 +23,3 @@ Economy Plus is an innovative organization aimed at enhancing the online gaming 
 While the exact mission statement isn't provided, based on the data, we can infer that Economy Plus's mission might be something along the lines of:
 
 > "Empowering Minecraft Bedrock Realm users with the tools and community they need to enhance their gaming experience, while prioritizing safety, efficiency, and user engagement."
-
-## Connect with Economy Plus:
-
-For further details, connect with Economy Plus on [Discord](https://discord.gg/anticheat).
