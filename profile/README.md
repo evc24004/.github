@@ -6,3 +6,7 @@ Owner @ Fairplay
 Ceo @ hustlr
   - https://hustlr.studio
   - Productivity app available on iOS
+
+Ceo @ ZinoLabs
+  - Https://zinolabs.dev
+  - I build dashboards for businesses 
