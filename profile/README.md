@@ -1,1 +1,1 @@
-Big minecraft fan
+- Computer Science and Engineering major from United States - East Coast.  
