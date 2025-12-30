@@ -1,3 +1,4 @@
 - Computer Science and Engineering major from United States - East Coast
+- Head of development/content direction @ gatewaysolutions
   
 Contact: leoodaguire@proton.ch
