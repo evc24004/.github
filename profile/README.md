@@ -1,2 +1,2 @@
 - Computer Science and Engineering major from United States - East Coast
-- Head of development/content direction at stealhstartup
+- Head of development/content direction at stealthstartup
