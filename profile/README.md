@@ -1,2 +1,5 @@
-- Computer Science and Engineering major from United States - East Coast
-- Head of development/content direction at stealthstartup
+- East Coast.
+- Computer Science and Engineering.
+- Stealth Startup.
+
+brylaninq@proton.me
