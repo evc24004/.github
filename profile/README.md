@@ -1,3 +1,3 @@
 - East Coast.
 - Computer Science and Engineering.
-- 3 CVE's for Minecraft Bedrock Dedicated Server. 
+- 3 confirmed* CVE's for Minecraft Bedrock Dedicated Server. 
